@@ -1,2 +1,2 @@
 # BagOfWordsJava
-Java implementation of the NPL technique Bag of words. 
+Java implementation of the NLP technique Bag of words. 
